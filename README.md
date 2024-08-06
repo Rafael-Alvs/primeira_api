@@ -23,7 +23,6 @@ Criar Usuário
       "senha": "minhaSenhaForte"
     }
 
-_Use o código com cuidado._
 
 Ler Usuário por ID
 ------------------
